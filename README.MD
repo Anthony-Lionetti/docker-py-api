@@ -1,2 +1,2 @@
-### Django Rest Framework (w/ Docker)
+### Dockerized Python API Boilerplate
 ---
